@@ -10,18 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd847ff-e652-46c6-9dcd-2d2a1cb87c0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_10_6_20__12_48_AM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fatmaPortfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ebd847ff-e652-46c6-9dcd-2d2a1cb87c0b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601937976928</updated>
       <workItem from="1601937985813" duration="148000" />
-      <workItem from="1601938273592" duration="584000" />
+      <workItem from="1601938273592" duration="1469000" />
     </task>
     <servers />
   </component>
